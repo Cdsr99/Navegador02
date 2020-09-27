@@ -16,3 +16,7 @@ D:\Programas\C#\Navegador02\Navegador02\obj\Debug\Navegador02.csprojResolveAssem
 D:\Programas\C#\Navegador02\Navegador02\obj\Debug\Navegador02.Form1.resources
 D:\Programas\C#\Navegador02\Navegador02\obj\Debug\Navegador02.Properties.Resources.resources
 D:\Programas\C#\Navegador02\Navegador02\obj\Debug\Navegador02.csproj.GenerateResource.Cache
+C:\wamp64\www\Php_Soft\Navegador02\Navegador02\bin\Debug\Navegador02.exe.config
+C:\wamp64\www\Php_Soft\Navegador02\Navegador02\obj\Debug\Navegador02.exe
+C:\wamp64\www\Php_Soft\Navegador02\Navegador02\obj\Debug\Navegador02.pdb
+C:\wamp64\www\Php_Soft\Navegador02\Navegador02\obj\Debug\Navegador02.csprojResolveAssemblyReference.cache
